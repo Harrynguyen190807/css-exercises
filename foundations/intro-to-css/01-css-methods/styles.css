@@ -1,0 +1,21 @@
+.top,
+p{
+    color: white;
+}
+button,
+p{
+    font-size: 18px;
+}
+.top {
+    background-color: red;
+    text-align: center;
+    font-size: 33px;
+    font-weight: bold;
+}
+p{
+    background-color: green;
+}
+button{
+    background-color: orange;
+    color: black;
+}
